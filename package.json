@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "Fetch user friends at facebook using PhantomJS library",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "people": [
+    {
+      "name": "Alex Antonov",
+      "email": "kaburbundokel11g@gmail.com",
+      "url": "http://asiniy.github.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "asiniy/facebook-friends-list-phantomjs"
+  },
+  "homepage": "https://github.com/asiniy/facebook-friends-list-phantomjs",
+  "license": "ISC"
+}
